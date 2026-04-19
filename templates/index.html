@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Voice Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🤖 AI Voice Assistant</h1>
+
+    <div id="chat-box"></div>
+
+    <div class="input-area">
+        <input type="text" id="user-input" placeholder="Type your message..." onkeydown="handleKeyPress(event)" />
+        <button onclick="sendMessage()">Send</button>
+        <button onclick="startVoice()">🎤</button>
+    </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

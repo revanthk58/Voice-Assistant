@@ -1,0 +1,2 @@
+OPENAI_API_KEY = "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"
+MODEL = "gpt-5-mini"
