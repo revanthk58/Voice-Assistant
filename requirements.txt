@@ -2,5 +2,4 @@ openai
 speechrecognition
 pyttsx3
 customtkinter
-pyaudio
 flask
