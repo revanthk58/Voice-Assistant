@@ -5,3 +5,7 @@ customtkinter
 flask
 payaudio
 PyAudio
+Flask
+gunicorn
+requests
+google-generativeai
