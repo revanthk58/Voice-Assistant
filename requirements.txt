@@ -3,7 +3,6 @@ speechrecognition
 pyttsx3
 customtkinter
 flask
-PyAudio
 gunicorn
 requests
 google-generativeai
